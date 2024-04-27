@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/lokas/Desktop/Public/ML%20-%20iNeuron/MLFlow/mlruns/0/3732990c210340d9ac0e11e4f894a584/artifacts
+end_time: 1714225366448
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3732990c210340d9ac0e11e4f894a584
+run_name: angry-pug-882
+run_uuid: 3732990c210340d9ac0e11e4f894a584
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714225362571
+status: 3
+tags: []
+user_id: lokas

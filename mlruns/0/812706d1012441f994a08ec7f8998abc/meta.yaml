@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/lokas/Desktop/Public/ML%20-%20iNeuron/MLFlow/mlruns/0/812706d1012441f994a08ec7f8998abc/artifacts
+end_time: 1714225270207
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 812706d1012441f994a08ec7f8998abc
+run_name: masked-mink-820
+run_uuid: 812706d1012441f994a08ec7f8998abc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714225265841
+status: 3
+tags: []
+user_id: lokas

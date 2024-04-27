@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/lokas/Desktop/Public/ML%20-%20iNeuron/MLFlow/mlruns/0/1964e2c09c8741599f9beeda0a66d83e/artifacts
+end_time: 1714225548644
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1964e2c09c8741599f9beeda0a66d83e
+run_name: delightful-pig-352
+run_uuid: 1964e2c09c8741599f9beeda0a66d83e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714225543460
+status: 3
+tags: []
+user_id: lokas

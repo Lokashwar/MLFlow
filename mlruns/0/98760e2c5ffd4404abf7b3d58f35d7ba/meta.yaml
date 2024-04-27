@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/lokas/Desktop/Public/ML%20-%20iNeuron/MLFlow/mlruns/0/98760e2c5ffd4404abf7b3d58f35d7ba/artifacts
+end_time: 1714225394040
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 98760e2c5ffd4404abf7b3d58f35d7ba
+run_name: righteous-kit-470
+run_uuid: 98760e2c5ffd4404abf7b3d58f35d7ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714225387501
+status: 3
+tags: []
+user_id: lokas

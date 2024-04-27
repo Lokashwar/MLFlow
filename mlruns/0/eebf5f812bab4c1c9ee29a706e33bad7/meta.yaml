@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/lokas/Desktop/Public/ML%20-%20iNeuron/MLFlow/mlruns/0/eebf5f812bab4c1c9ee29a706e33bad7/artifacts
+end_time: 1714225307400
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eebf5f812bab4c1c9ee29a706e33bad7
+run_name: indecisive-crow-254
+run_uuid: eebf5f812bab4c1c9ee29a706e33bad7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714225302794
+status: 3
+tags: []
+user_id: lokas

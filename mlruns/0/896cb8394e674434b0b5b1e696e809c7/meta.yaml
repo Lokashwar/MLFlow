@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/lokas/Desktop/Public/ML%20-%20iNeuron/MLFlow/mlruns/0/896cb8394e674434b0b5b1e696e809c7/artifacts
+end_time: 1714225355635
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 896cb8394e674434b0b5b1e696e809c7
+run_name: valuable-mole-812
+run_uuid: 896cb8394e674434b0b5b1e696e809c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714225351378
+status: 3
+tags: []
+user_id: lokas

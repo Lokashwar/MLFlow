@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/lokas/Desktop/Public/ML%20-%20iNeuron/MLFlow/mlruns/0/e115aab946694a6888d86719f593e9be/artifacts
+end_time: 1714225461261
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e115aab946694a6888d86719f593e9be
+run_name: omniscient-trout-334
+run_uuid: e115aab946694a6888d86719f593e9be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714225454075
+status: 3
+tags: []
+user_id: lokas

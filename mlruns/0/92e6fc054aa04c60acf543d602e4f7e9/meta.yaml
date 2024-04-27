@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/lokas/Desktop/Public/ML%20-%20iNeuron/MLFlow/mlruns/0/92e6fc054aa04c60acf543d602e4f7e9/artifacts
+end_time: 1714225406023
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 92e6fc054aa04c60acf543d602e4f7e9
+run_name: placid-chimp-877
+run_uuid: 92e6fc054aa04c60acf543d602e4f7e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714225400768
+status: 3
+tags: []
+user_id: lokas

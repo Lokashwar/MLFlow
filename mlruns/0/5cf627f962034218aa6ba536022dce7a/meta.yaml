@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/lokas/Desktop/Public/ML%20-%20iNeuron/MLFlow/mlruns/0/5cf627f962034218aa6ba536022dce7a/artifacts
+end_time: 1714225536306
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5cf627f962034218aa6ba536022dce7a
+run_name: stylish-grub-900
+run_uuid: 5cf627f962034218aa6ba536022dce7a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714225530369
+status: 3
+tags: []
+user_id: lokas

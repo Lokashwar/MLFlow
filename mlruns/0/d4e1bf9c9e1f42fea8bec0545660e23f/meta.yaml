@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/lokas/Desktop/Public/ML%20-%20iNeuron/MLFlow/mlruns/0/d4e1bf9c9e1f42fea8bec0545660e23f/artifacts
+end_time: 1714225294781
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d4e1bf9c9e1f42fea8bec0545660e23f
+run_name: welcoming-bee-301
+run_uuid: d4e1bf9c9e1f42fea8bec0545660e23f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714225290451
+status: 3
+tags: []
+user_id: lokas

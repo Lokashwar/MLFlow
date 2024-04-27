@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/lokas/Desktop/Public/ML%20-%20iNeuron/MLFlow/mlruns/0/555819bd37a64a4bb867ef24ba8e9028/artifacts
+end_time: 1714225490551
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 555819bd37a64a4bb867ef24ba8e9028
+run_name: bald-seal-297
+run_uuid: 555819bd37a64a4bb867ef24ba8e9028
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714225489903
+status: 4
+tags: []
+user_id: lokas

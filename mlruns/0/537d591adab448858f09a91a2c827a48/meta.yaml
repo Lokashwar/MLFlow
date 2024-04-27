@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/lokas/Desktop/Public/ML%20-%20iNeuron/MLFlow/mlruns/0/537d591adab448858f09a91a2c827a48/artifacts
+end_time: 1714225260078
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 537d591adab448858f09a91a2c827a48
+run_name: amazing-bass-995
+run_uuid: 537d591adab448858f09a91a2c827a48
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714225253403
+status: 3
+tags: []
+user_id: lokas

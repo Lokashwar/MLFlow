@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/lokas/Desktop/Public/ML%20-%20iNeuron/MLFlow/mlruns/0/31373835468244858bf81a8caa0bba4c/artifacts
+end_time: 1714225503827
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 31373835468244858bf81a8caa0bba4c
+run_name: rumbling-fly-38
+run_uuid: 31373835468244858bf81a8caa0bba4c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714225497313
+status: 3
+tags: []
+user_id: lokas
